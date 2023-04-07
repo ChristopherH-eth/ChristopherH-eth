@@ -1,8 +1,13 @@
-<div align="center">
-  
-  [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+### 👨‍💻 About Me :
+
+I am a Full Stack Developer living in the United States
+
+- :telescope: I’m working as a Software Engineer and Implementer for frontend and backend web applications.
+
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+
+- :mailbox:How to reach me:
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +32,22 @@
   <img height=50 width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" />
   <img height=50 width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" />
   <img height=50 width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" />
+</div>
+
+---
+
+### :fire: My Stats :
+
+<div align="center">
+  
+  [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherH-eth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <!--
