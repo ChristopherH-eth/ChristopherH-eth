@@ -1,5 +1,17 @@
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherH-eth)](https://github.com/ChristopherH-eth/github-readme-stats)
+<div>
+  [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherH-eth)](https://github.com/ChristopherH-eth/github-readme-stats)
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **ChristopherH-eth/ChristopherH-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
