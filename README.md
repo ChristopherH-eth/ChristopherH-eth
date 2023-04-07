@@ -1,4 +1,4 @@
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth)](https://github.com/anuraghazra/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChristopherH-eth/ChristopherH-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
