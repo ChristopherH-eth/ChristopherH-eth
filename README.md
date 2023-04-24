@@ -40,13 +40,13 @@ I am a Full Stack Developer living in the United States
 
 <div align="center">
   
-  [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Christopher's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChristopherH-eth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherH-eth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristopherH-eth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
