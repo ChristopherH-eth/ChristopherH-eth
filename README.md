@@ -1,10 +1,10 @@
 ### 👨‍💻 About Me :
 
-I am a Full Stack Developer living in the United States
+I am a Full Stack Developer who focuses on building applications using React, NodeJS, Laravel Lumen, and whatever web technology currently peaks my interest.
 
 - :telescope: I’m working as a Software Engineer and Implementer for frontend and backend web applications.
 
-- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+- :zap: In my free time I enjoy reading, working on personal projects, and experimenting with new technologies.
 
 - :mailbox:How to reach me:
 
